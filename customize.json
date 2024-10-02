@@ -1,9 +1,9 @@
 {
-  "greeting": "Hola!",
-  "name": "Vanshika",
-  "greetingText": "Hello buddy hope you're well",
-  "wishText": "May the force always be with you! Live long and prosper ;)",
-  "imagePath": "img/Vanshika2.png",
+  "greeting": "Nyako Nyako ji !",
+  "name": "Vatsala",
+  "greetingText": "The love of my life",
+  "wishText": " A very happy birthday my beautiful wife ;) ",
+  "imagePath": "img/vatsala.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
+  "wishHeading": "Happy Birthday Love!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
